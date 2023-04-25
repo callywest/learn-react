@@ -17,3 +17,8 @@ input {
   margin-bottom: 0;
   margin-right: 0.25em;
 }
+
+h3 {
+  color: pink;
+  font-style: italic;
+}
